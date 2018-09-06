@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="23px" viewBox="0 0 12 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Fill 256</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Boostrap-3-Grid" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home" transform="translate(-1210.000000, -6821.000000)" fill="#3B5A97">
+            <path d="M1222,6827.97562 L1217.82524,6827.97562 L1217.82524,6826.06771 C1217.82524,6825.17035 1218.40626,6824.96103 1218.81513,6824.96103 L1221.73785,6824.96103 L1221.73785,6821.01302 L1217.50342,6821 C1213.66319,6821 1212.93446,6823.94348 1212.93446,6825.82835 L1212.93446,6827.97562 L1210,6827.97562 L1210,6831.98171 L1212.93446,6831.98171 L1212.93446,6844 L1217.82524,6844 L1217.82524,6831.98171 L1221.59211,6831.98171 L1222,6827.97562 Z" id="Fill-256"></path>
+        </g>
+    </g>
+</svg>
